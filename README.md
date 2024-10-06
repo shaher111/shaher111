@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaher111
 - 👀 I’m interested in Data Analysis 📊 
-- Experienced Data Analyst at CEREBRUM | Azure Data Analyst Associate | Creating Dashboards and Converting Raw Data into Actionable insights.
+- Experienced Data Analyst at CEREBRUM | Microsoft Data Analyst Associate | Creating Dashboards and Converting Raw Data into Actionable insights.
 As a dedicated Data Analyst at CEREBRUM, I excel in uncovering meaningful insights through meticulous data analysis, enabling informed decision-making. Proficient in leveraging tools such as Power bi, SQL, I specialize in transforming raw data into actionable intelligence. My expertise extends to data visualization, statistical analysis, and pattern recognition, ensuring a comprehensive understanding of complex datasets.
 o	Professional MS-Office knowledge especially Excel advanced capabilities (V Lookup, If   Function, Pivot Table, Data Validation, Power pivot, power query, Dashboards and A lot of    Functions and Equations).
 o	Data Warehouse ETL by Microsoft SQL Server and also used SSIS
